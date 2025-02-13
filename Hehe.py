@@ -1,9 +1,8 @@
-import time
-
 nama = "🀄IRHAM🀄"
 garis = "-" * (len(nama) + 4)
 print(f"{garis}\n| {nama} |\n{garis}")
 
+import time 
 while True: 
   print("awal dari kesederhanaan akan menciptakan kebesaran di masa depan")
   time.sleep(0.5)
